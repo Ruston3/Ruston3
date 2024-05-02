@@ -1,12 +1,10 @@
 ## Hi, I'm Chris 👋
-### A Data Engineer!
+### A Data Scientist / Analyst!
 
-- 🔭 I’m currently working on **Data Engineering on Microsoft Azure Certificate**
-- 🌱 I’m currently learning **Azure and Docker**
+- 🔭 I’m currently working on **Google Cloud Certified - Professional Data Engineer**
+- 🌱 I’m currently learning **Dash**
 - 📫 Contact me at: **crcockerill [at] gmail [dot] com**
 - ⚡ See my experience on [linkedin](linkedin.com/in/chris-cockerill-33840838)
-
-### Have a look at some examples of my work:
 
 
 <h3 align="left">Connect with me:</h3>
